@@ -185,14 +185,14 @@
 
     1) No hay ningún objeto
     2) ExpReg
-    3) RegExp
+    3) RegExp [x]
     4) Rexp
 
 27. JavaScript fue diseñado por
 
     1) Bill Gates
     2) Bjarne Stroustrup
-    3) Brendan Eich  Brendan Eich 
+    3) Brendan Eich  Brendan Eich [x]
     4) Dennis M. Ritchie
 
 28. En una navegador web, para escribir algo en la consola se emplea
