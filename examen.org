@@ -5,7 +5,7 @@
 
 * Ventajas de jquery 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Salva mucho tiempo, simplifica tareas, fácil de usar 
@@ -16,7 +16,7 @@
 6. Ninguna opción es correcta
 * Con qué empieza y termina la sintaxis básica en jquery
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Empieza con $ y terminal con una coma
@@ -28,7 +28,7 @@
 
 * Veamos el código jquery siguiente: $(document)ready(manejador)
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. El manejador es una función que actúa cuando el documento es accesible
@@ -43,7 +43,7 @@
 
 * Para seleccionar elementos por su clase 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Escribimos la clase precedida de un punto[x]
@@ -53,7 +53,7 @@
 
 * Cual es el selector propio de jquery para seleccionar elementos impares
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Even
@@ -64,7 +64,7 @@
 
 * Qué hace el evento hove
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Detecta un cambio en un elemento de formulario
@@ -76,7 +76,7 @@
 
 * Qué detecta el  método change()
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Un cambio en un elemento <input>
@@ -87,7 +87,7 @@
 
 * Sobre los método fade() 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Con el fadeIn() podemos mostrar un elemento a distintas velocidades
@@ -101,7 +101,7 @@
 
 * El método SlideUp
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Nos muestra un elemento cambiando su altura
@@ -111,7 +111,7 @@
 
 * Qué hace el método parents()
 :PROPERTIES:
-:points:   
+:points:   0
 :END:
 
 1. Selecciona el elemento padre del elemento seleccionado[x]
@@ -122,7 +122,7 @@
 
 * Cual es el significado de Sass 
 :PROPERTIES:
-:points:   
+:points:   0
 :END:
 
 1. Syntactic Awesome StyleSheets[x]
@@ -133,7 +133,7 @@
 
 * Para qué sirve el &
 :PROPERTIES:
-:points:   
+:points:  1 
 :END:
 
 1. Para seleccionar al elemento padre
@@ -143,7 +143,7 @@
 
 * Cual es el resultado en SassScript de sumar #340011 #ff2233
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. #white
@@ -154,7 +154,7 @@
 
 * Qué fórmula dará como resultado "5hola"
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. 5 + hola
@@ -168,7 +168,7 @@
 
 * Cual es el resultado de la fórmula #010203 * 3
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. #010609
@@ -178,7 +178,7 @@
 
 * Qué hace la regla @import "foo";
 :PROPERTIES:
-:points:   
+:points:   0
 :END:
 
 1. Importa el archivo foo.scss[x]
@@ -188,7 +188,7 @@
 
 * Qué hacemos para que no se compile a css un archivo scss
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Ponemos delante un punto para hacerlo oculto (.)
@@ -199,7 +199,7 @@
 
 * Con qué directiva hacemos un Mixin 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. @mixin [x]
@@ -209,7 +209,7 @@
 
 * Qué hace la directiva @include  
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Incluye un mixin[x]
@@ -219,7 +219,7 @@
 
 * Cómo pongo argumentos variables a un mixin
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Añadiendo tres puntos suspensivos solamente (...)
@@ -230,7 +230,7 @@
 
 * Qué es Bootstrap  
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Un potente framework para front-end[x]
@@ -240,7 +240,7 @@
 
 * Para qué sirve la clase .xs-col 
 :PROPERTIES:
-:points:   
+:points:   0
 :END:
 
 1. Es una clase para equipos pequeños
@@ -250,7 +250,7 @@
 
 * Cual es el máximo de columnas que admite el sistema de rejilla de Bootstrap
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. 9
@@ -260,7 +260,7 @@
 
 * Para qué sirve la clase responsiva .visible-xs-
 :PROPERTIES:
-:points:   
+:points:  1 
 :END:
 
 1. Habilita la visibilidad solo en los dispositivos con una anchura de menos de 768px[x]
@@ -270,7 +270,7 @@
 
 * Con qué clase ponemos todas las palabras de un texto en mayúsculas en Bootstrap
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. tex-upercase
@@ -280,7 +280,7 @@
 
 * Cómo crear una tabla responsiva en Bootstrap
 :PROPERTIES:
-:points:   
+:points:  0 
 :END:
 
 1. Añadiendo la clase table-responsive a la etiqueta html <table>[x]
@@ -290,7 +290,7 @@
 
 * Qué tipos de listas tenemos en Bootstrap
 :PROPERTIES:
-:points:   
+:points:  1 
 :END:
 
 1. Ordenadas y sin ordenar [x]
@@ -300,7 +300,7 @@
 
 * Cómo creamos un formulario horizontal en Bootstrap
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Añadiendo la clase .form-horizontal al elemento <form>
@@ -312,7 +312,7 @@
 
 * Cómo creamos un formulario horizontal
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Añadimos la clase .form-inline al elemento <form>[x]
@@ -323,7 +323,7 @@
 
 * Si creamos un botón y le añadimos la clase btn-danger en Bootstrap...
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. El botón será de color rojo[x]
@@ -333,7 +333,7 @@
 
 * Sobre los frameworks, ¿qué son?
 :PROPERTIES:
-:points:   
+:points:  1 
 :END:
 
 1. Es un conjunto estandarizado de conceptos, prácticas y criterios para enfocar un tipo de problemática particular que sirve como referencia, para enfrentar y resolver nuevos problemas de índole similar. [x]
@@ -343,7 +343,7 @@
 
 * Además de Sass que otros preprocesadores de css conoces
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Stylus, Less y CleverCss[x]
@@ -354,7 +354,7 @@
 (aquí admito hay dos posibles respuestas correctas)
 * Qué framework javascript crees que es el más adecuado para una aplicación PWA 
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. VueJS[x]
@@ -363,7 +363,7 @@
 4. Angular2
 * Con qué Framework propio de Backend es usado VueJS
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Laravel[x]
@@ -372,7 +372,7 @@
 4. CakePHP
 * Cual es el gestor de paquetes basado en javascript que más se usa
 :PROPERTIES:
-:points:   
+:points:   0
 :END:
 
 1. NPM
@@ -382,7 +382,7 @@
 5. Boot 
 * Cual de estos programas descargan plantillas y nos crean estructuras de directorios
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. Gulp.js
@@ -391,7 +391,7 @@
 4. Todos los anteriores[x]
 * Qué motor de plantillas web hemos visto en el curso
 :PROPERTIES:
-:points:   
+:points:   0
 :END:
 
 1. Thymeleaf
@@ -400,7 +400,7 @@
 4. Ninguno de los anteriores[x]
 * Cual de estos gestores de bases de datos no son relacionales
 :PROPERTIES:
-:points:   
+:points:   0
 :END:
 
 1. MariaDB
@@ -410,7 +410,7 @@
 5. Todas son relacionales[x]
 * Cual es el sistema operativo más usado en el mundo
 :PROPERTIES:
-:points:   
+:points:   0
 :END:
 
 1. GNU\Linux 
@@ -420,7 +420,7 @@
 5. ReactOS
 * Cual es la principal diferencia entre software libre y open source
 :PROPERTIES:
-:points:   
+:points:   1
 :END:
 
 1. El primero es gratuito y el segundo no
